@@ -1,3 +1,3 @@
 # headline
 
-this is my way.
+this is my way!
